@@ -1,3 +1,5 @@
+Game Pit Tokyo 2024 출전작 - 시점 변환 퍼즐 게임 Cut/Out Shutter
+
 Engine : Unity
 Language : C#
 KeyTechs : Camera Perspective Manipulation, Raycasting, StateMachine
